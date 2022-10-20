@@ -1,1 +1,2 @@
-/home/score/github/wikimedia-event-processor/kafka-consumer-db/src/main/java/com/mmg/ConsumerApplication.java
+/home/score/github/wikimedia-event-processor/kafka-consumer-db/src/main/java/com/mmg/SpringConsumerApplication.java
+/home/score/github/wikimedia-event-processor/kafka-consumer-db/src/main/java/com/mmg/KafkaDbConsumer.java

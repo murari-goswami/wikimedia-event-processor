@@ -1,4 +1,4 @@
-/home/score/github/wikimedia-event-processor/kafka-producer-wikimedia/src/main/java/com/mmg/WikimediaChangesProducer.java
-/home/score/github/wikimedia-event-processor/kafka-producer-wikimedia/src/main/java/com/mmg/ProducerApplication.java
+/home/score/github/wikimedia-event-processor/kafka-producer-wikimedia/src/main/java/com/mmg/SpringProducerApplication.java
+/home/score/github/wikimedia-event-processor/kafka-producer-wikimedia/src/main/java/com/mmg/WikimediaEventsProducer.java
 /home/score/github/wikimedia-event-processor/kafka-producer-wikimedia/src/main/java/com/mmg/WikimediaEventsHandler.java
 /home/score/github/wikimedia-event-processor/kafka-producer-wikimedia/src/main/java/com/mmg/KafkaTopicConfig.java

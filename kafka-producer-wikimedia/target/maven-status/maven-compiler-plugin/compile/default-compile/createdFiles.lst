@@ -1,4 +1,4 @@
+com/mmg/WikimediaEventsProducer.class
 com/mmg/KafkaTopicConfig.class
-com/mmg/WikimediaChangesProducer.class
-com/mmg/ProducerApplication.class
+com/mmg/SpringProducerApplication.class
 com/mmg/WikimediaEventsHandler.class

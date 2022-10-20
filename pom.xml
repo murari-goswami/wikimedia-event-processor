@@ -5,7 +5,8 @@
 	<modules>
 		<module>kafka-producer-wikimedia</module>
         <module>kafka-consumer-db</module>
-    </modules>
+		<module>spring-data-arangodb</module>
+	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

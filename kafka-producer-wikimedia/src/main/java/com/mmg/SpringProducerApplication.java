@@ -13,11 +13,11 @@ public class SpringProducerApplication implements CommandLineRunner {
     }
 
     @Autowired
-    private WikimediaChangesProducer wikimediaChangesProducer;
+    private WikimediaEventsProducer wikimediaEventsProducer;
 
     @Override
     public void run(String... args) throws Exception {
-        wikimediaChangesProducer.sendMessage();
+        wikimediaEventsProducer.sendMessage();
 
     }
 }
